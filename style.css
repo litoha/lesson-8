@@ -1,0 +1,24 @@
+.block {
+  position: relative;
+  width: 600px;
+  height: 144px;	
+}
+
+.tabs {
+  display: flex;  
+}
+
+.tab {
+  width: 100px;
+  height: 60px;
+  background: #ccc;
+  color: #222222;
+  text-align: center;
+  line-height: 60px;
+}
+
+.info {
+  padding:30px 20px;
+  border:1px solid #222222;
+  display: none; 
+}
